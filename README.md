@@ -20,11 +20,7 @@ The following tools and packages are required:
 - Samtools
 
 ## Installation Instructions
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/nnamirembe/Bioinfo-pipeline.git
-cd Bioinfo-pipeline
+Clone the repository and install dependencies
 
 # Install Python packages
 pip install biopython
