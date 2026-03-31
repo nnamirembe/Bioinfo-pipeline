@@ -1,11 +1,3 @@
-# Bioinformatics Pipeline
-
-This repository contains a basic bioinformatics pipeline structure.
-
-## Structure
-- src/: pipeline scripts
-- data/: input data
-- results/: output results
 
 ## Project Description
 This project is a bioinformatics pipeline designed to process sequencing data, including quality control, alignment, and downstream analysis. It aims to provide a reproducible and automated workflow for handling high-throughput sequencing datasets.
@@ -22,10 +14,7 @@ The following tools and packages are required:
 ## Installation Instructions
 Clone the repository and install dependencies
 
-# Install Python packages
-pip install biopython
-
 # Execution Instruction
+Execute the script using bash
 
-echo "python pipeline.py --input data/sample.fastq --output results/"
 
