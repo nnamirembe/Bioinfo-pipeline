@@ -1,0 +1,26 @@
+# Python and R Caches
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+
+# Bioinformatics Data Files (Common extensions)
+*.fastq
+*.fastq.gz
+*.fq
+*.bam
+*.sam
+*.vcf
+*.fasta
+*.fa
+*.gz
+*.fna
+
+# Folder exclusions
+data/
+results/
+
+# OS specific files
+.DS_Store
+Thumbs.db
