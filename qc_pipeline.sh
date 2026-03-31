@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Running FastQC on raw reads..."
+echo "fastqc data/*.fastq.gz --outdir results/qc_reports/"
